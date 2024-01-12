@@ -1,7 +1,7 @@
 # scruff app automation with ruby! 
 
 Olá! ☕️<br>
-Este é um simples projeto de automação web em ruby 🎉 <br>
+Este é um simples projeto de automação app em ruby 🎉 <br>
 
 <br>
 Hey there! ☕️<br>
